@@ -1,0 +1,10 @@
+Index: src/main/java/Test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/Test.java	(date 1594554314963)
++++ src/main/java/Test.java	(date 1594554314963)
+@@ -0,0 +1,2 @@
++public class Test {
++}
